@@ -16,8 +16,15 @@
     "db"
   ],
   "author": "Reashetyr",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "mysql": "^2.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:reashetyrr/quick.mysql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/reashetyrr/quick.mysql/issues"
   }
 }
