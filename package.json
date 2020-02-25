@@ -1,6 +1,6 @@
 {
   "name": "@reashetyr/quick.mysql",
-  "version": "1.0.0",
+  "version": "1.0.0-1",
   "description": "A Quick.db like wrapper for MySQL instead of sqlite",
   "main": "index.js",
   "scripts": {
