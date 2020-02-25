@@ -1,0 +1,23 @@
+{
+  "name": "quick.mysql",
+  "version": "1.0.0",
+  "description": "A Quick.db like wrapper for MySQL instead of sqlite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "database",
+    "storing",
+    "values",
+    "easy",
+    "quick",
+    "mysql",
+    "db"
+  ],
+  "author": "Reashetyr",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
