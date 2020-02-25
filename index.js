@@ -59,7 +59,7 @@ function arbitrade (method, params, tableName) {
 }
 
 module.exports = {
-    version: '1.0.0',
+    version: '1.0.0-2',
     init: init_connection,
     fetch: (key, ops) => {
         if (!key) throw new TypeError('No key specified');
